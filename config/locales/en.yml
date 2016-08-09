@@ -1,0 +1,10 @@
+en:
+  shopr:
+    settings:
+      labels:
+        paytrail_merchant_id: Merchant ID
+        paytrail_merchant_secret: Merchant secret
+
+      help:
+        paytrail_merchant_id: Help for merchant id
+        paytrail_merchant_secret: Help for merchant secret
